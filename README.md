@@ -37,8 +37,8 @@ const aboutMateus = {
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
 
 <a href="https://github.com/MateusNeres26">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucianoAAP&theme=react&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoAAP&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusNeres26&theme=react&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusNeres26&theme=buefy&layout=compact" />
 </a>
 
 <br/>
