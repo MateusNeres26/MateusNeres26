@@ -3,7 +3,7 @@
 <h3> About Me </h3>
 
 ```javascript
-const aboutLuciano = {
+const aboutMateus = {
   learning: 'Cypress and JavaScript',
   graduation: 'Computer Network at Estácio',
   mainStacks: ['Javascript', 'HTML', 'CSS'],
@@ -36,7 +36,7 @@ const aboutLuciano = {
 - 🖥 &nbsp;
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
 
-<a href="https://github.com/LucianoAAP">
+<a href="https://github.com/MateusNeres26">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucianoAAP&theme=react&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoAAP&theme=buefy&layout=compact" />
 </a>
@@ -46,14 +46,14 @@ const aboutLuciano = {
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/lucianoaap/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Luciano%20Almeida-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:lucianoalmeidaap@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lucianoalmeidaap@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/mateusneres/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mateus%20Neres-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:mponeres3@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mponeres3@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 This README was inspired by a public template provided by [AVS1508](https://github.com/AVS1508) in [here](https://github.com/kautukkundan/Awesome-Profile-README-templates).
 
 <!--
-**LucianoAAP/LucianoAAP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MateusNeres26/MateusNeres26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
