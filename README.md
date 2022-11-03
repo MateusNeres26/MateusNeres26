@@ -4,7 +4,7 @@
 
 ```javascript
 const aboutMateus = {
-  learning: 'Cypress and JavaScript',
+  learning: 'Cypress, JavaScript and JAVA',
   graduation: 'Computer Network at Estácio',
   mainStacks: ['Javascript', 'HTML', 'CSS'],
   hobbies: ['Gaming', 'Movies', 'Series', 'Card games with friends!'],
@@ -18,6 +18,7 @@ const aboutMateus = {
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![JAVA](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 
 - 💻 &nbsp;
   ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
