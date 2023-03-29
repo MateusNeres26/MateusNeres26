@@ -6,13 +6,15 @@
 const aboutMateus = {
   learning: 'Cypress, JavaScript and JAVA',
   graduation: 'Computer Network at Estácio',
-  mainStacks: ['Javascript', 'HTML', 'CSS'],
+  postGraduation: 'Software Engineering at PUC Minas',
+  mainStacks: ['JAVA', 'Cypress', 'SQL'],
   hobbies: ['Gaming', 'Movies', 'Series', 'Card games with friends!'],
   motto: 'If you always do what you already can, you'll always be who you already are.',
 };
 ```
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
+
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -23,17 +25,32 @@ const aboutMateus = {
 - 💻 &nbsp;
   ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+  ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-333333?style=flat&logo=microsoft-azure)
+  ![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress)
+   ![Appium](https://img.shields.io/badge/-Appium-333333?style=flat&logo=appium)
+  ![BDD](https://img.shields.io/badge/-BDD-333333?style=flat&logo=cucumber)
+  
+- 📱 &nbsp;
+  ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+  ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=xcode&logoColor=white)
 
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+ 
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
+  
+
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=white)
+
 - 🖥 &nbsp;
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
+  ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+  ![MacOS](https://img.shields.io/badge/-macOS-black?style=flat-square&logo=apple)
 
 <a href="https://github.com/MateusNeres26">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusNeres26&theme=react&show_icons=true" />
