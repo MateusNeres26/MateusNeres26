@@ -1,84 +1,60 @@
-<h2> Hey there! I'm Mateus.</h2>
+# Olá! Eu sou Mateus.
 
-<h3> About Me </h3>
+## Sobre Mim
 
-```javascript
-const aboutMateus = {
-  learning: 'Cypress, JavaScript and JAVA',
-  graduation: 'Computer Network at Estácio',
-  postGraduation: 'Software Engineering at PUC Minas',
-  mainStacks: ['JAVA', 'Cypress', 'SQL'],
-  hobbies: ['Gaming', 'Movies', 'Series', 'Card games with friends!'],
-  motto: 'If you always do what you already can, you'll always be who you already are.',
-};
-```
+- Graduado em Redes de Computadores pela Estácio.
+- Pós-graduando em Engenharia de Software pela PUC Minas.
+- Cusando Engenheiro de Qualidade de Software pela EBAC.
+- Principais habilidades: Java, Cypress, testes funcionais web, mobile e API.
+- Hobbies: Jogos, filmes, séries, estudos e leitura.
+- Pergunte-me sobre qualquer coisa, terei o prazer em ajudá-lo.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+## 🛠 Tecnologias
 
+#### 💻 Desenvolvimento:
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+#### 📱 Mobile:
+  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+  ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat&logo=xcode&logoColor=white)
 
-- 💻 &nbsp;
-  ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-  ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-333333?style=flat&logo=microsoft-azure)
-  ![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress)
-   ![Appium](https://img.shields.io/badge/-Appium-333333?style=flat&logo=appium)
-  ![BDD](https://img.shields.io/badge/-BDD-333333?style=flat&logo=cucumber)
-  
-- 📱 &nbsp;
-  ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
-  ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=xcode&logoColor=white)
+#### ⚙️ Frameworks e Ferramentas:
+  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+  ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+  ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+  ![Cucumber](https://img.shields.io/badge/-Cucumber-23D96C?style=flat&logo=cucumber&logoColor=white)
+  ![Appium](https://img.shields.io/badge/-Appium-663399?style=flat&logo=appium&logoColor=white)
+  ![Super Test](https://img.shields.io/badge/-Super%20Test-FA8072?style=flat&logo=testing-library&logoColor=white)
+  ![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat&logo=junit&logoColor=white)
+  ![RestAssured](https://img.shields.io/badge/-RestAssured-5E8CD2?style=flat&logo=rest-assured&logoColor=white)
+  ![Mocha](https://img.shields.io/badge/-Mocha-8D6748?style=flat&logo=mocha&logoColor=white)
+  ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+  ![ChatGPT AI](https://img.shields.io/badge/-ChatGPT%20AI-FFD400?style=flat&logo=openai&logoColor=black)
+  ![Zabbix](https://img.shields.io/badge/-Zabbix-E9573F?style=flat&logo=zabbix&logoColor=white)
+  ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
- 
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
-  
+#### 📡 Infraestrutura e Outros:
+  ![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?style=flat&logo=windows&logoColor=white)
+  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+  ![OSX](https://img.shields.io/badge/-OSX-000000?style=flat&logo=apple&logoColor=white)
+  ![Microsoft Cloud](https://img.shields.io/badge/Microsoft%20Cloud-0089D6?style=flat&logo=microsoft&logoColor=white)
+  ![Troubleshooting](https://img.shields.io/badge/-Troubleshooting-FF5733?style=flat&logo=troubleshooting&logoColor=white)
+  ![NOC](https://img.shields.io/badge/-NOC-FF5733?style=flat&logo=noc&logoColor=white)
+  ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=white)
+## 🤝🏻 Contato
 
-- 🖥 &nbsp;
-  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
-  ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-  ![MacOS](https://img.shields.io/badge/-macOS-black?style=flat-square&logo=apple)
+Você pode me encontrar em:
 
-<a href="https://github.com/MateusNeres26">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusNeres26&theme=react&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusNeres26&theme=buefy&layout=compact" />
-</a>
+- [LinkedIn](https://www.linkedin.com/in/mateusneres/)
+- Email: mponeres3@gmail.com
 
-<br/>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/mateusneres/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mateus%20Neres-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:mponeres3@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mponeres3@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
-
-This README was inspired by a public template provided by [AVS1508](https://github.com/AVS1508) in [here](https://github.com/kautukkundan/Awesome-Profile-README-templates).
-
-<!--
-**MateusNeres26/MateusNeres26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Este README foi inspirado em um template público fornecido por [AVS1508](https://github.com/AVS1508). Veja [aqui](https://github.com/kautukkundan/Awesome-Profile-README-templates) o perfil original.
