@@ -4,7 +4,7 @@
 
 - Graduado em Redes de Computadores pela Estácio.
 - Pós-graduando em Engenharia de Software pela PUC Minas.
-- Cusando Engenheiro de Qualidade de Software pela EBAC.
+- Cursando Engenheiro de Qualidade de Software pela EBAC.
 - Principais habilidades: Java, Cypress, testes funcionais web, mobile e API.
 - Hobbies: Jogos, filmes, séries, estudos e leitura.
 - Pergunte-me sobre qualquer coisa, terei o prazer em ajudá-lo.
