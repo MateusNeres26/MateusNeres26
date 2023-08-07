@@ -49,6 +49,9 @@
   ![NOC](https://img.shields.io/badge/-NOC-FF5733?style=flat&logo=noc&logoColor=white)
   ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusNeres26&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+
+
 ## 🤝🏻 Contato
 
 Você pode me encontrar em:
