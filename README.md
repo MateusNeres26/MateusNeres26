@@ -3,8 +3,8 @@
 ## Sobre Mim
 
 - Graduado em Redes de Computadores pela Estácio.
-- Pós-graduando em Engenharia de Software pela PUC Minas.
-- Cursando Engenheiro de Qualidade de Software pela EBAC.
+- Pós-graduado em Engenharia de Software pela PUC Minas.
+- Engenheiro de Qualidade de Software pela EBAC.
 - Principais habilidades: Java, Cypress, testes funcionais web, mobile e API.
 - Hobbies: Jogos, filmes, séries, estudos e leitura.
 - Pergunte-me sobre qualquer coisa, terei o prazer em ajudá-lo.
@@ -48,9 +48,12 @@
   ![Troubleshooting](https://img.shields.io/badge/-Troubleshooting-FF5733?style=flat&logo=troubleshooting&logoColor=white)
   ![NOC](https://img.shields.io/badge/-NOC-FF5733?style=flat&logo=noc&logoColor=white)
   ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+  
+#### 📚 RoadMap:
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusNeres26&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
-
+| Roadmap | Linguagens |
+|---------|------------|
+| [![roadmap.sh](https://roadmap.sh/card/tall/64bd8df38b7b09327380795b?variant=dark&roadmaps=qa)](https://roadmap.sh) | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusNeres26&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /> |
 
 ## 🤝🏻 Contato
 
